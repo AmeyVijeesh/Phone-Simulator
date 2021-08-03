@@ -28,7 +28,7 @@ def weather_app():
         except KeyError:
             result = "Please retry: "
 
-        return result
+        return result 
 
     def getWeather(city):
         weather_key = 'c03eeb08b471c10ca8057b5078e9ca0a'
