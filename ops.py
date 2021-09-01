@@ -6,7 +6,7 @@ from apps import weather_app, on_screen_keyboard, calculator, web_browser, calen
 root = Tk()
 root.geometry("366x650")
 root.resizable(0, 0)
-root.title("Phone Simulator")
+root.title("Phone Simulator") 
 
 image1 = PhotoImage(file='img.png')
 canvas = Canvas(root)
