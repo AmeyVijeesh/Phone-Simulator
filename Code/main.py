@@ -9,7 +9,7 @@ root.resizable(0, 0)
 root.title("Phone Simulator") 
 
 image1 = PhotoImage(file='img.png')
-canvas = Canvas(root)
+canvas = Canvas(root) 
 canvas.pack(fill=BOTH, expand=True)
 
 
