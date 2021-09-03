@@ -10,7 +10,7 @@ def weather_app():
     root = Toplevel()
     root.geometry("366x650") 
     root.title("Weather")
-
+ 
     def formatResponse(weather):
         try:
             name = weather['name']
