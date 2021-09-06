@@ -8,7 +8,7 @@ This app uses several modules for each of the apps.
 # Files
 
 Contains two files, each for the apps, and the main file, respectively. 
-Also contains a background image.
+Also contains a background image. You can change the images accordingly. 
 
 # 
 
