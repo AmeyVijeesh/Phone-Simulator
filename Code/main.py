@@ -1,3 +1,5 @@
+# Main file, imports the definitions of the apps from apps.py
+
 from tkinter import *
 import time
 from datetime import datetime
