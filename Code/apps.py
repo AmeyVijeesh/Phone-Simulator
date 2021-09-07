@@ -1,3 +1,5 @@
+# Contains the apps for the main file.
+
 from tkinter import *
 from tkinter import messagebox
 import requests
