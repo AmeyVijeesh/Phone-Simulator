@@ -14,7 +14,7 @@ def weather_app():
     root.title("Weather")
  
     def formatResponse(weather):
-        try:
+        try:    
             name = weather['name']
             country = weather['sys']['country']
             description = weather['weather'][0]['description']
