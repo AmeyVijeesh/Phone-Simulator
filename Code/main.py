@@ -25,7 +25,7 @@ def start():
     time_bar.after(1, start)
 
 def search():
-    user_input = (find_entry.get()).upper()
+    user_input = (find_entry.get()).upper() # Or lower
     if user_input == 'CALCULATOR':
         calculator()
 
