@@ -11,3 +11,4 @@ Contains two files, each for the apps, and the main file, respectively. (Also co
 
 # 
 
+**Note: App tested only in Mac OSX, not tested in Windows.**
