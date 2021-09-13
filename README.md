@@ -1,5 +1,5 @@
 # Phone-Simulator
-An extremely simple Phone Simulator made using Tkinter. This Simulator contains 6 apps, each of them found commonly in different OS. 
+An extremely simple Phone Simulator (inspired from Xcode's simulator), made using Tkinter. This Simulator contains 6 apps, each of them found commonly in different OS. 
 
 # Modules
 
