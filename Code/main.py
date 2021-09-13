@@ -26,6 +26,8 @@ def start():
 
 def search():
     user_input = (find_entry.get()).upper() # Or lower
+    
+    # Hard-coded for now, another way to do this later.
     if user_input == 'CALCULATOR':
         calculator()
 
